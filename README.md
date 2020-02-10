@@ -1,3 +1,6 @@
+## 🐰 Auteur
+Luca Montaigut : https://github.com/luca-montaigut
+
 # 📫 Gossip Project
 
 L'appli pour balancer vos pires ragots aux yeux de tous et vous faire des amis...ou pas.
@@ -39,7 +42,4 @@ Une fois dans la console Rails (`rails c`) vous pourrez explorer les tables de d
 `tp PrivateMessage.all`
 
 `tp City.all`
-
-## 🐰 Auteur
-Luca Montaigut : https://github.com/luca-montaigut
 
